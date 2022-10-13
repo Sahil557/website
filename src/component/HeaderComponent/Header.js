@@ -326,6 +326,7 @@ export const Header = ({ modeOn }) => {
                 startIcon={<ArrowUpwardIcon style={{ marginLeft: "10px", fontSize: '35px', marginBottom: '2px' }} />}
             />
             <h1> sahil</h1>
+            <p>Lemon</p>
         </>
     )
 
